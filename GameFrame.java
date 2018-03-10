@@ -1,3 +1,7 @@
+//Nathaniel Snyder 3/10/2018
+//uml1
+
+
 package lab6;
 
 
@@ -6,7 +10,7 @@ import java.awt.BorderLayout;
 import java.awt.Component;
 import javax.swing.JFrame;
 
-//uml1
+
 public class GameFrame {
 	
 	//static Component label = "game";
