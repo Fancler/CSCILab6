@@ -94,8 +94,14 @@ have a button to press to start the game.
 --
 
 --
+work with collision detection and 
 iterate player score when colided/picked up
+
+store item position on grid
+
 --
+
+
 
 -- </panel_attributes>
     <additional_attributes/>
@@ -153,6 +159,9 @@ iterate player score when colided/picked up
 
 --
 Main control panel for the game.
+possibly store player and score info
+in this class vs seperate game class?
+
 --
 
 -- </panel_attributes>
